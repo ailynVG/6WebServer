@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(90deg, #40fd5f, #438b79);
+    padding: 20px;
+}
